@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "description": "The adventures of a mischievous young boy and his friends growing up in a Mississippi River town in the nineteenth century.",
+        "price": "37.80"
+    },
+    {
+        "title": "Pride and prejudice",
+        "author": "Jane Austen",
+        "description": "In early nineteenth-century England, a spirited young woman copes with the suit of a snobbish gentleman, as well as the romantic entanglements of her four sisters.",
+        "price": "55.00"
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "description": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads to a pirate fortune as well as great danger.",
+        "price": "10.30"
+    },
+    {
+        "title": "A Christmas carol",
+        "author": "Charles Dickens",
+        "description": "An abridgement of Dickens's beloved tale of a miser who learns the true meaning of Christmas when three ghostly visitors review his past and foretell his future.",
+        "price": "35.40"
+    },
+    {
+        "title": "Brave new world",
+        "author": "Aldous Huxley",
+        "description": "A fantasy of the future that sheds a blazing critical light on the present--considered to be Aldous Huxley's most enduring masterpiece.",
+        "price": "25.50"
+    },
+    {
+        "title": "War and peace",
+        "author": "Leo Tolstoy",
+        "description": "The monumental Russian classic reflects the life and times of Russian society during the Napoleonic War.",
+        "price": "44.60"
+    }
+]
